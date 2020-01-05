@@ -1,0 +1,8 @@
+[
+    {
+        "target_path":  "external/wpa_supplicant_8",
+        "repository":   "platform/external/wpa_supplicant_8",
+        "remote":       "aosp",
+        "revision":     "refs/tags/android-10.0.0_r25"
+    }
+]
