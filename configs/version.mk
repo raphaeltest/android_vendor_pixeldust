@@ -16,6 +16,8 @@
 ROM_VERSION := PixelDust-X
 BUILD_VERSION := aosp
 
+SIGN_KEY := RELEASE
+
 ifndef SIGN_KEY
   PD_BUILDTYPE := UNOFFICIAL
 endif
